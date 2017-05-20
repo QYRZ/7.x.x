@@ -21,7 +21,7 @@ For further information on the SkyFire project, please visit our project website
 [projectskyfire.org](http://www.projectskyfire.org).
 
 ## Supported Client Version
-**MoP 7.2.0 Build 24015**
+**Legion 7.2.0 Build 24015**
 
 ## Client Patch
 [SkyFire-Community-Tools](https://github.com/ProjectSkyfire/SkyFire-Community-Tools).
